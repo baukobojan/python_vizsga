@@ -1,0 +1,5 @@
+Kategória:Feladat:Pont
+Alap:Mi a változó?:2
+Haladó:Mi az öröklődás:1
+Alap:Mit csinál a whie ciklus?:2
+Alap:Mi az elágazás:1
